@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-git常用命令(https://github.com/xpliu/xpplay/blob/master/git.md) 
+[git常用命令](https://github.com/xpliu/xpplay/blob/master/git.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
