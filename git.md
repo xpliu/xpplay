@@ -29,5 +29,10 @@
 ##删除文件##
     rm myfile.txt
     git rm myfile.txt
+	
+##恢复删除的文件##
+    git checkout -- recoverfilename  
+    **只能恢复rm命令删除的文件，git rm命令执行以后，文件无法恢复**
+
 
 
